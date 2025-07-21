@@ -1,0 +1,31 @@
+influencer_id,name,category,gender,follower_count,platform,post_id,post_date,post_url,caption,reach,likes,comments,campaign,product,orders,revenue,payout_basis,payout_rate,total_payout
+1,Alice Fit,Fitness,F,120000,Instagram,101,2024-06-01,https://insta.com/p/101,Great workout!,50000,1200,100,MB-June,MuscleBlaze,5,1500,post,5000,5000
+2,Bob Health,Nutrition,M,80000,YouTube,102,2024-06-02,https://youtube.com/v/102,Try this supplement!,30000,800,50,HK-June,HKVitals,3,900,order,200,600
+3,Cara Strong,Fitness,F,95000,Instagram,103,2024-06-03,https://insta.com/p/103,Stay strong!,60000,1500,120,MB-June,MuscleBlaze,7,2100,post,4000,4000
+4,Dan Power,Wellness,M,70000,Twitter,104,2024-06-04,https://twitter.com/s/104,Power up!,20000,400,30,GZ-June,Gritzo,2,600,order,250,500
+5,Eve Active,Fitness,F,110000,Instagram,105,2024-06-05,https://insta.com/p/105,Active life!,55000,1300,110,MB-June,MuscleBlaze,6,1800,post,4500,4500
+6,Frank Food,Nutrition,M,90000,YouTube,106,2024-06-06,https://youtube.com/v/106,Healthy eating!,35000,900,60,HK-June,HKVitals,4,1200,order,220,880
+7,Gina Zen,Wellness,F,85000,Twitter,107,2024-06-07,https://twitter.com/s/107,Zen moments!,25000,500,40,GZ-June,Gritzo,3,900,post,3000,3000
+8,Hank Lift,Fitness,M,100000,Instagram,108,2024-06-08,https://insta.com/p/108,Lift heavy!,52000,1250,105,MB-June,MuscleBlaze,5,1500,order,210,1050
+9,Ivy Vibe,Nutrition,F,95000,YouTube,109,2024-06-09,https://youtube.com/v/109,Vibrant health!,34000,850,55,HK-June,HKVitals,3,900,post,3500,3500
+10,Jack Sprint,Fitness,M,105000,Instagram,110,2024-06-10,https://insta.com/p/110,Sprint to win!,57000,1350,115,MB-June,MuscleBlaze,6,1800,order,220,1320
+1,Alice Fit,Fitness,F,120000,Instagram,111,2024-06-11,https://insta.com/p/111,Keep moving!,51000,1220,102,MB-June,MuscleBlaze,5,1500,post,5000,5000
+2,Bob Health,Nutrition,M,80000,YouTube,112,2024-06-12,https://youtube.com/v/112,Stay healthy!,31000,820,52,HK-June,HKVitals,3,900,order,200,600
+3,Cara Strong,Fitness,F,95000,Instagram,113,2024-06-13,https://insta.com/p/113,Strong mind!,61000,1520,122,MB-June,MuscleBlaze,7,2100,post,4000,4000
+4,Dan Power,Wellness,M,70000,Twitter,114,2024-06-14,https://twitter.com/s/114,Wellness tips!,21000,420,32,GZ-June,Gritzo,2,600,order,250,500
+5,Eve Active,Fitness,F,110000,Instagram,115,2024-06-15,https://insta.com/p/115,Stay active!,56000,1320,112,MB-June,MuscleBlaze,6,1800,post,4500,4500
+6,Frank Food,Nutrition,M,90000,YouTube,116,2024-06-16,https://youtube.com/v/116,Food for thought!,36000,920,62,HK-June,HKVitals,4,1200,order,220,880
+7,Gina Zen,Wellness,F,85000,Twitter,117,2024-06-17,https://twitter.com/s/117,Wellness journey!,26000,520,42,GZ-June,Gritzo,3,900,post,3000,3000
+8,Hank Lift,Fitness,M,100000,Instagram,118,2024-06-18,https://insta.com/p/118,Heavy lifts!,53000,1270,107,MB-June,MuscleBlaze,5,1500,order,210,1050
+9,Ivy Vibe,Nutrition,F,95000,YouTube,119,2024-06-19,https://youtube.com/v/119,Nutrition tips!,35000,870,57,HK-June,HKVitals,3,900,post,3500,3500
+10,Jack Sprint,Fitness,M,105000,Instagram,120,2024-06-20,https://insta.com/p/120,Run fast!,58000,1370,117,MB-June,MuscleBlaze,6,1800,order,220,1320
+1,Alice Fit,Fitness,F,120000,Instagram,121,2024-06-21,https://insta.com/p/121,Fit life!,52000,1240,104,MB-June,MuscleBlaze,5,1500,post,5000,5000
+2,Bob Health,Nutrition,M,80000,YouTube,122,2024-06-22,https://youtube.com/v/122,Supplements work!,32000,840,54,HK-June,HKVitals,3,900,order,200,600
+3,Cara Strong,Fitness,F,95000,Instagram,123,2024-06-23,https://insta.com/p/123,Strong body!,62000,1540,124,MB-June,MuscleBlaze,7,2100,post,4000,4000
+4,Dan Power,Wellness,M,70000,Twitter,124,2024-06-24,https://twitter.com/s/124,Power tips!,22000,440,34,GZ-June,Gritzo,2,600,order,250,500
+5,Eve Active,Fitness,F,110000,Instagram,125,2024-06-25,https://insta.com/p/125,Active always!,57000,1340,114,MB-June,MuscleBlaze,6,1800,post,4500,4500
+6,Frank Food,Nutrition,M,90000,YouTube,126,2024-06-26,https://youtube.com/v/126,Food hacks!,37000,940,64,HK-June,HKVitals,4,1200,order,220,880
+7,Gina Zen,Wellness,F,85000,Twitter,127,2024-06-27,https://twitter.com/s/127,Zen health!,27000,540,44,GZ-June,Gritzo,3,900,post,3000,3000
+8,Hank Lift,Fitness,M,100000,Instagram,128,2024-06-28,https://insta.com/p/128,Lift more!,54000,1290,109,MB-June,MuscleBlaze,5,1500,order,210,1050
+9,Ivy Vibe,Nutrition,F,95000,YouTube,129,2024-06-29,https://youtube.com/v/129,Healthy vibes!,36000,890,59,HK-June,HKVitals,3,900,post,3500,3500
+10,Jack Sprint,Fitness,M,105000,Instagram,130,2024-06-30,https://insta.com/p/130,Win the race!,59000,1390,119,MB-June,MuscleBlaze,6,1800,order,220,1320 
