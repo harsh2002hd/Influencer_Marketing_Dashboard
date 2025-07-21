@@ -45,5 +45,5 @@ The dashboard uses a simulated dataset (`influencer_marketing_roi_simulated.csv`
 - **Documentation clarity:** This README and in-code comments
 
 ## Credits
-- Built by [Your Name] for HealthKart Influencer Analytics
+- Built by Harsh Sharma for HealthKart Influencer Analytics
 - Powered by Streamlit, Pandas, and Python 
